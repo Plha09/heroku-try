@@ -11,8 +11,6 @@ import About from "./pages/About";
 import Header from "./components/Header";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { BrowserRouter as  Route } from 'react-router-dom'
-
 
 export default function App() {
   const root = ReactDOM.createRoot(document.getElementById('root'));
